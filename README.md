@@ -41,8 +41,7 @@ leetcode-sql-solutions/
 ```
 
 ## 🚀 Why This Project Rocks
-This repository isn’t just about solving problems—it’s about showcasing my ability to write efficient SQL queries, explain complex logic clearly, and apply data manipulation skills to real-world scenarios. Whether it’s joins, subqueries, window functions, or optimization, these solutions reflect the same analytical rigor I bring to projects like my [B2C Sales Power BI Dashboard](https://github.com/[YourUsername]/b2c-sales-powerbi-dashboard).
-
+This repository isn’t just about solving problems—it’s about showcasing my ability to write efficient SQL queries, explain complex logic clearly, and apply data manipulation skills to real-world scenarios.
 Explore the solutions, check out the code, and let me know what you think! 😎
 
 ---
