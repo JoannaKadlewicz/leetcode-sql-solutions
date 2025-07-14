@@ -61,23 +61,8 @@ If there is **no second highest salary**, return `NULL` (or `None` in Pandas).
 
 ---
 
-## ⏱️ Complexity
-
-| Type              | Complexity       |
-|-------------------|------------------|
-| Time Complexity   | O(n log n)       |
-| Space Complexity  | O(1)             |
-
-> Sorting the distinct salary values takes `O(n log n)`, where `n` is the number of unique salaries.
-
----
-
 ## 💾 Solution
 
 See [`solution.sql`](solution.sql) for the SQL query with inline comments.
 
 ---
-
-## 🧩 Tags
-
-`SQL`, `Subquery`, `Ranking`, `Top K`, `LeetCode Easy`, `NULL Handling`
