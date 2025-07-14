@@ -61,22 +61,8 @@ If a person does **not** have a corresponding address, the query should return `
 
 ---
 
-## ⏱️ Complexity
-
-| Type              | Complexity |
-|-------------------|------------|
-| Time Complexity   | O(n)       |
-| Space Complexity  | O(1)       |
-
----
-
 ## 💾 Solution
 
 See [`solution.sql`](solution.sql) for the SQL query with inline comments.
 
 ---
-
-## 🧩 Tags
-
-`SQL`, `JOIN`, `LEFT JOIN`, `Database`, `LeetCode Easy`
-
