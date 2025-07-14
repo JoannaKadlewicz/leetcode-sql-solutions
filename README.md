@@ -5,18 +5,22 @@ Welcome to my **LeetCode SQL Solutions** repository! This collection showcases m
 
 ## 🌟 About This Repository
 This repository contains my solutions to LeetCode SQL problems, each organized in its own directory with:
-- **README.md**: Problem description, my approach, and complexity analysis.
-- **solution.sql**: The SQL query with detailed comments explaining the logic.
+- **README.md**: Problem description and complexity analysis.
+- **solution.sql**: The SQL query written in PostgreSQL or MySQL syntax.
 
 The goal? To provide clean, optimized solutions and clear explanations that highlight my SQL expertise and problem-solving mindset.
 
 ## 📋 Solved Problems
 Below is a list of solved LeetCode SQL problems. Click on a problem to view its description and solution.
 
-| Problem Number | Problem Name                                                 | Difficulty | Solution                                           |
-|----------------|--------------------------------------------------------------|------------|----------------------------------------------------|
-| 175            | [Combine Two Tables](175_combine_two_tables/README.md)       | Easy       | [Solution](175_combine_two_tables/solution.sql)    |
-| 176            | [Second Highest Salary](176_second_highest_salary/README.md) | Medium     | [Solution](176_second_highest_salary/solution.sql) |
+| Problem Number | Problem Name                                                                                           | Difficulty | Solution                                           |
+|----------------|--------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------|
+| 175            | [Combine Two Tables](175_combine_two_tables/README.md)                                                 | Easy       | [Solution](175_combine_two_tables/solution.sql)    |
+| 176            | [Second Highest Salary](176_second_highest_salary/README.md)                                           | Medium     | [Solution](176_second_highest_salary/solution.sql) |
+| 178            | [Rank Scores](178_rank_scores/README.md)                                                               | Medium     | [Solution](178_rank_scores/solution.sql) |
+| 180            | [Consecutive Numbers](180_consecutive_numbers/README.md)                                               | Medium     | [Solution](180_consecutive_numbers/solution.sql) |
+| 181            | [Employees Earning More Than Their Managers](181_employees_earning_more_than_their_managers/README.md) | Easy     | [Solution](181_employees_earning_more_than_their_managers/solution.sql) |
+| 182            | [Duplicate Emails](182_duplicate_emails/README.md)                                                     | Easy       | [Solution](182_duplicate_emails/solution.sql) |
 
 *Note*: This table will grow as I add more solutions. Each directory includes a detailed explanation and commented SQL code.
 
