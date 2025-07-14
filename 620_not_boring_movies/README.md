@@ -56,10 +56,3 @@ Return the results ordered by `rating` in descending order.
 - They are sorted by `rating` descending.
 
 ---
-
-## 🛠️ Solution Outline
-
-- Filter rows where `id` is odd (`id % 2 = 1`)
-- Filter rows where `description` is not "boring"
-- Order the result by `rating` descending
-

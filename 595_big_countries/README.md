@@ -57,8 +57,3 @@ Return the **name**, **population**, and **area** of such countries.
 - No country meets the area condition of 3 million, but population qualifies Afghanistan and Algeria.
 
 ---
-
-## 🛠️ Solution Outline
-
-- Filter rows where `area >= 3000000 OR population >= 25000000`.
-- Select only the required columns: `name`, `population`, `area`.

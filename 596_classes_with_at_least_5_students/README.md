@@ -52,11 +52,3 @@ Return the class names in any order.
 - Other classes have fewer than 5 students and are not included.
 
 ---
-
-## 🛠️ Solution Outline
-
-- Group rows by `class`.
-- Count the number of students per class.
-- Filter groups where count is >= 5.
-- Select the `class` column.
-

@@ -78,10 +78,3 @@ Given a table `MyNumbers` containing integers (possibly with duplicates), find t
 - So, the result is `null`.
 
 ---
-
-## 🛠️ Solution Outline
-
-- Group the numbers by `num` and count their occurrences.
-- Filter to keep only those with a count of 1 (single numbers).
-- Return the maximum `num` among those.
-- If none exist, return `null`.
