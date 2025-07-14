@@ -13,10 +13,10 @@ The goal? To provide clean, optimized solutions and clear explanations that high
 ## 📋 Solved Problems
 Below is a list of solved LeetCode SQL problems. Click on a problem to view its description and solution.
 
-| Problem Number | Problem Name                                          | Difficulty | Solution                                           |
-|----------------|-------------------------------------------------------|------------|----------------------------------------------------|
-| 175            | [Combine Two Tables](175_combine_two_tables/README.md) | Easy | [Solution](175_combine_two_tables/solution.sql)    |
-| 182            | [Combine Two Tables](176_second_highest_salary/README.md) | Easy | [Solution](176_second_highest_salary/solution.sql) |
+| Problem Number | Problem Name                                                 | Difficulty | Solution                                           |
+|----------------|--------------------------------------------------------------|------------|----------------------------------------------------|
+| 175            | [Combine Two Tables](175_combine_two_tables/README.md)       | Easy | [Solution](175_combine_two_tables/solution.sql)    |
+| 176            | [Second Highest Salary](176_second_highest_salary/README.md) | Easy | [Solution](176_second_highest_salary/solution.sql) |
 
 *Note*: This table will grow as I add more solutions. Each directory includes a detailed explanation and commented SQL code.
 
