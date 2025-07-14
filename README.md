@@ -17,6 +17,7 @@ Below is a list of solved LeetCode SQL problems. Click on a problem to view its 
 |----------------|--------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------|
 | 175            | [Combine Two Tables](175_combine_two_tables/README.md)                                                 | Easy       | [Solution](175_combine_two_tables/solution.sql)    |
 | 176            | [Second Highest Salary](176_second_highest_salary/README.md)                                           | Medium     | [Solution](176_second_highest_salary/solution.sql) |
+| 177            | [Nth Highest Salary](177_nth_highest_salary/README.md)                                                 | Medium     | [Solution](177_nth_highest_salary/solution.sql) |
 | 178            | [Rank Scores](178_rank_scores/README.md)                                                               | Medium     | [Solution](178_rank_scores/solution.sql) |
 | 180            | [Consecutive Numbers](180_consecutive_numbers/README.md)                                               | Medium     | [Solution](180_consecutive_numbers/solution.sql) |
 | 181            | [Employees Earning More Than Their Managers](181_employees_earning_more_than_their_managers/README.md) | Easy     | [Solution](181_employees_earning_more_than_their_managers/solution.sql) |
