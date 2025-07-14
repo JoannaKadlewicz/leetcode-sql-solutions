@@ -13,28 +13,25 @@ The goal? To provide clean, optimized solutions and clear explanations that high
 ## 📋 Solved Problems
 Below is a list of solved LeetCode SQL problems. Click on a problem to view its description and solution.
 
-| Problem Number | Problem Name | Difficulty | Solution |
-|----------------|--------------|------------|----------|
-| 181 | Employees Earning More Than Their Managers | Easy | [Solution](181_employees_earning_more_than_managers/) |
-| 182 | Duplicate Emails | Easy | [Solution](182_duplicate_emails/) |
-| 183 | Customers Who Never Order | Easy | [Solution](183_customers_who_never_order/) |
-| 185 | Department Top Three Salaries | Hard | [Solution](185_department_top_three_salaries/) |
-| 262 | Trips and Users | Hard | [Solution](262_trips_and_users/) |
+| Problem Number | Problem Name                                          | Difficulty | Solution                                           |
+|----------------|-------------------------------------------------------|------------|----------------------------------------------------|
+| 175            | [Combine Two Tables](175_combine_two_tables/README.md) | Easy | [Solution](175_combine_two_tables/solution.sql)    |
+| 182            | [Combine Two Tables](176_second_highest_salary/README.md) | Easy | [Solution](176_second_highest_salary/solution.sql) |
 
 *Note*: This table will grow as I add more solutions. Each directory includes a detailed explanation and commented SQL code.
 
 ## 🛠️ How It’s Organized
-Each problem has its own directory, named with the problem number and title (e.g., `181_employees_earning_more_than_managers`). Inside each directory, you’ll find:
+Each problem has its own directory, named with the problem number and title (e.g., `176_second_highest_salary`). Inside each directory, you’ll find:
 - **README.md**: Problem description, my approach, challenges faced, and time/space complexity.
 - **solution.sql**: The SQL solution with inline comments for clarity.
 
 Example:
 ```
 leetcode-sql-solutions/
-├── 181_employees_earning_more_than_managers/
+├── 175_combine_two_tables/
 │   ├── README.md
 │   └── solution.sql
-├── 182_duplicate_emails/
+├── 176_second_highest_salary/
 │   ├── README.md
 │   └── solution.sql
 ...
